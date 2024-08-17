@@ -7,6 +7,7 @@ let genRep;
 
 const generateButton = document.getElementById("generate");
 function generate() {
+clearInterval(genRep)
 genRep = setInterval(loop16, 50)
 password.textContent = ""
 amount = 0
