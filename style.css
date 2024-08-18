@@ -4,8 +4,8 @@ body {
 }
 
 h1, button {
-    font-size: 4em;
-    font-weight: 700;
+  font-size: calc(2vw + 1.5vh);
+  font-weight: 700;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: aqua;
   background-color: rgb(06, 06, 06);
@@ -24,6 +24,7 @@ h1, button {
 
 p {
   font: bold 9.5em arial, sans-serif;
+  font-size: calc(2.5vw + 2vh);
   background-color: rgb(06, 06, 06);
   color: transparent;
   text-shadow: 2px 2px 3px rgba(105, 105, 105, 0.5);
