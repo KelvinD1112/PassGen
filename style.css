@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background: rgb(84, 84, 84);
+}
+
+h1, button {
+    font-size: 4em;
+    font-weight: 700;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: aqua;
+  background-color: rgb(06, 06, 06);
+  color: transparent;
+  text-shadow: 2px 2px 3px rgba(105, 105, 105, 0.5);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-color: transparent;
+}
+
+p {
+  font: bold 9.5em arial, sans-serif;
+  background-color: rgb(06, 06, 06);
+  color: transparent;
+  text-shadow: 2px 2px 3px rgba(105, 105, 105, 0.5);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+}
