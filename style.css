@@ -22,7 +22,7 @@ h1, button {
   border-color: transparent;
 }
 
-p {
+p{
   font: bold 9.5em arial, sans-serif;
   font-size: calc(2.5vw + 2vh);
   background-color: rgb(06, 06, 06);
@@ -31,4 +31,8 @@ p {
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
+}
+
+#passwordImp {
+  font-size: calc(2.5vw + 1.5vh);
 }
